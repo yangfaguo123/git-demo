@@ -1,7 +1,7 @@
 /**
  * Created by faguo on 17-4-8.
  */
-
+"use strict"；
 
 var mycars = [6, 15, 4, 25, 7, 35, 55, 44, 5, 75, 87, 85, 90, 20];
 
